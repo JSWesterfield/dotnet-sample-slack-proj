@@ -107,3 +107,4 @@ C:\Users\jwesterf\source\repos\MvcMovieV2\MvcMovieAppV2\MvcMovieAppV2\bin\Debug\
 C:\Users\jwesterf\source\repos\MvcMovieV2\MvcMovieAppV2\MvcMovieAppV2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\jwesterf\source\repos\MvcMovieV2\MvcMovieAppV2\MvcMovieAppV2\obj\Debug\netcoreapp3.1\MvcMovieAppV2.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\jwesterf\source\repos\MvcMovieV2\MvcMovieAppV2\MvcMovieAppV2\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
+C:\Users\jwesterf\source\repos\MvcMovieV2\MvcMovieAppV2\MvcMovieAppV2\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Welcome.cshtml.g.cs
